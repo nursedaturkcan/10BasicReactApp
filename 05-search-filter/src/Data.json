@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-2-202209_GEO_EMEA?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660753617539",
+        "title":"iPhone 14",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut"
+    },
+    {
+        "id":2,
+        "image":"https://cdn.akakce.com/z/samsung/samsung-galaxy-z-fold-4.jpg",
+        "title":"Samsung z-fold",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut"
+    },
+    {
+        "id":3,
+        "image":"https://cdn.easycep.com/assets/_web/img/product/2023/05/l_xiaomi-redmi-note-10s-9336-1-1684241570.webp",
+        "title":"Xiaomi Redmi Note 10S 64 GB Mavi",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut"
+    },
+    {
+        "id":4,
+        "image":"https://cdn.easycep.com/assets/_web/img/product/2022/04/l_iphone-6s-plus-133-1-1648902361.webp",
+        "title":" iPhone 6s Plus 16 GB Space Gray",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut"
+    },
+    {
+        "id":5,
+        "image":"https://cdn.easycep.com/assets/_web/img/product/2022/05/l_oppo-a5-2020-3654-1-1652168797.webp",
+        "title":"Oppo A5 2020 64 GB Beyaz",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut"
+    },
+    {
+        "id":6,
+        "image":"https://cdn.easycep.com/assets/_web/img/product/2022/04/l_samsung-galaxy-a51-2601-1-1650879479.webp",
+        "title":"Samsung Galaxy A51 128 GB Pembe",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut"
+    },
+    {
+        "id":7,
+        "image":"https://cdn.easycep.com/assets/_web/img/product/2022/04/l_samsung-galaxy-a31-2981-1-1650976978.webp",
+        "title":"Samsung Galaxy A31 128 GB Mavi",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut"
+    },
+    {
+        "id":8,
+        "image":"https://cdn.easycep.com/assets/_web/img/product/2022/04/l_apple-iphone-8-plus-318-3-1649077758.webp",
+        "title":"iPhone 8 Plus 64 GB Gold",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut"
+    },
+    {
+        "id":9,
+        "image":"https://cdn.easycep.com/assets/_web/img/product/2022/06/l_apple-iphone-7-8-telefon-kilifi-4059-1-1654524545.webp",
+        "title":"iPhone 7 / 8 Plus Telefon Kılıfı Kırmızı",
+        "Description":"Apple iPhone 7 / 8 Telefon Kılıfı"
+    },
+    {
+        "id":10,
+        "image":"https://cdn.easycep.com/assets/_web/img/product/2023/01/l_samsung-galaxy-watch-5-pro-7071-1-1673532997.webp",
+        "title":"Samsung Galaxy Watch ",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut"
+    }
+
+]
