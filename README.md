@@ -9,10 +9,10 @@ Project7:  Self Reliance App with DB<br/>
 Project8:  FAQ App<br/>
 Project9:  Random Profile Generator with Axios<br/>
 Project10: Slick&Carousel<br/>
+Each project is explained separately in its own README file. For any questions, please contact nursedaturkcan123@gmail.com <br/>
 
 Preview: <br/>
 
-https://github.com/nursedaturkcan/10BasicReactApp/assets/129687664/1035ef6f-1fa9-4e1f-b299-4569380e74d8 <br/>
+https://github.com/nursedaturkcan/10BasicReactApp/assets/129687664/1035ef6f-1fa9-4e1f-b299-4569380e74d8 
 
-Each project is explained separately in its own README file. For any questions, please contact nursedaturkcan123@gmail.com.
 
