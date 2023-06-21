@@ -12,5 +12,7 @@ Project10: Slick&Carousel<br/>
 
 Preview: <br/>
 
-https://github.com/nursedaturkcan/10BasicReactApp/assets/129687664/1035ef6f-1fa9-4e1f-b299-4569380e74d8
+https://github.com/nursedaturkcan/10BasicReactApp/assets/129687664/1035ef6f-1fa9-4e1f-b299-4569380e74d8 <br/>
+
+Each project is explained separately in its own README file. For any questions, please contact nursedaturkcan123@gmail.com.
 
